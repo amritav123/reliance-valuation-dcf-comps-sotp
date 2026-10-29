@@ -58,7 +58,7 @@ No cell in the grid reaches the market cap, which points to the terminal cash fl
  ## Sum-of-the-parts
 Segment-level valuation across O2C, Retail, Digital Services and Oil & Gas. Segment multiples are illustrative assumptions (see limitations).
 
-![Uploading Screenshot 2026-10-29 at 1.42.45 PM.png…]()
+[Uploading Screenshot 2026-10-29 at 1.42.45 PM.png…]()
 
 
 ## Trading comparables
