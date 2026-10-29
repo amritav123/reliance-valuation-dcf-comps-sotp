@@ -35,6 +35,9 @@ FY2026 segment revenue mix (before eliminations): Oil-to-Chemicals 50.4% · Reta
 ## DCF
 **Base case:** revenue growth 8% (FY2026 actual ~9.8%) · EBITDA margin 17.5% · tax 25% · capex 10.5% and D&A 4.9% of revenue · working capital 5% of revenue growth · WACC 10% · terminal growth 4% · explicit forecast FY2027E-FY2031E.
 
+<img width="590" height="677" alt="Screenshot 2026-10-29 at 1 42 28 PM" src="https://github.com/user-attachments/assets/bc79fc1a-04ae-47d3-a2d2-e4676587dcd0" />
+
+
 Unlevered FCF rises from ₹44,191 cr (FY2027E) to ₹60,121 cr (FY2031E). Enterprise value of ₹8,40,761 cr less net debt of ₹1,24,717 cr gives equity value of ₹7,16,044 cr.
 
 **Sensitivity: equity value (₹ crore), WACC × terminal growth**
@@ -47,7 +50,16 @@ Unlevered FCF rises from ₹44,191 cr (FY2027E) to ₹60,121 cr (FY2031E). Enter
 | 12% | 4,06,935 | 4,49,389 | 5,02,456 | 5,70,685 | 6,61,657 |
 | 13% | 3,56,846 | 3,90,368 | 4,31,338 | 4,82,552 | 5,48,397 |
 
+<img width="566" height="222" alt="Screenshot 2026-10-29 at 1 43 06 PM" src="https://github.com/user-attachments/assets/e339b293-8fd1-4781-94de-966008dfefb5" />
+
+
 No cell in the grid reaches the market cap, which points to the terminal cash flow rather than the discount rate (see limitations).
+
+ ## Sum-of-the-parts
+Segment-level valuation across O2C, Retail, Digital Services and Oil & Gas. Segment multiples are illustrative assumptions (see limitations).
+
+![Uploading Screenshot 2026-10-29 at 1.42.45 PM.png…]()
+
 
 ## Trading comparables
 | Company | EV/Revenue | EV/EBITDA |
@@ -56,6 +68,9 @@ No cell in the grid reaches the market cap, which points to the terminal cash fl
 | Indian Oil | 0.33x | 3.88x |
 | Bharti Airtel | 5.73x | 9.97x |
 | DMart | 3.03x | 37.04x |
+
+<img width="872" height="460" alt="Screenshot 2026-10-29 at 1 42 36 PM" src="https://github.com/user-attachments/assets/6ea016b9-8e03-4984-86f1-a868a02d1e01" />
+
 
 Peers differ sharply in business mix, growth and capital intensity, so direct comparability is limited.
 
