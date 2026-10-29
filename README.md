@@ -1,4 +1,4 @@
-# Reliance Industries Ltd: Equity Valuation (DCF · Trading Comps · SOTP)
+# Reliance Industries Ltd: Equity Valuation (DCF , Trading Comps , SOTP)
 
 Three-method valuation of Reliance Industries (NSE: RELIANCE) built in Excel from FY2022-FY2026 consolidated annual-report data. Academic project, not investment advice.
 
