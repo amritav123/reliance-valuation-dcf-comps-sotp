@@ -71,4 +71,4 @@ Peers differ sharply in business mix, growth and capital intensity, so direct co
 ## Sources
 Reliance Industries annual reports FY2021-22 to FY2025-26; peer annual reports and market prices as of the valuation date.
 
-*Amrita Vidhu · B.Sc. Economics, Mathematics & Statistics, CHRIST University*
+*Amrita Vidhu 
